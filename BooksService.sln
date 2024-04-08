@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookServiceAPP.API", "BookS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksService.API.Tests", "BooksService.API.Tests\BooksService.API.Tests.csproj", "{57AD0A2C-6656-4DB3-8215-B5C42FE9254F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksService.Application.Tests", "BooksService.Application.Tests\BooksService.Application.Tests.csproj", "{4E55C351-BCCC-46C9-95C5-A4F5F9419B22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{57AD0A2C-6656-4DB3-8215-B5C42FE9254F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57AD0A2C-6656-4DB3-8215-B5C42FE9254F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57AD0A2C-6656-4DB3-8215-B5C42FE9254F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E55C351-BCCC-46C9-95C5-A4F5F9419B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E55C351-BCCC-46C9-95C5-A4F5F9419B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E55C351-BCCC-46C9-95C5-A4F5F9419B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E55C351-BCCC-46C9-95C5-A4F5F9419B22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
